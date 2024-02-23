@@ -1,0 +1,521 @@
+#par {
+    background-image: url(/Images/Banner.png);
+    width: 1220px;
+    height: 600px;
+    flex-shrink: 0;
+    margin-top: 50px;
+    margin-left: 65px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#happy {
+    padding-top: 150px;
+    border-radius: 16px;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+
+#new {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+    /* 131.944% */
+    width: 632px;
+    margin-left: 300px;
+
+
+}
+
+#six {
+    padding-top: 150px;
+    color: #F00;
+    text-align: center;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    -webkit-text-stroke-width: 1;
+    -webkit-text-stroke-color: #000;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+#holi {
+    padding-top: 30px;
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+#cat {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+#pic {
+    padding-top: 100px;
+    width: 802.9px;
+    height: 500px;
+    flex-shrink: 0;
+    margin-left: 180px;
+}
+
+#back {
+    margin-top: 250px;
+    background-image: url('/Images/Vectorrr.png');
+    background-repeat: no-repeat;
+    width: 1150px;
+    height: 600px;
+    background-size: contain;
+
+
+
+
+    fill: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+}
+
+#two {}
+
+#wil {
+    padding-left: 80px;
+    padding-top: 80px;
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px;
+    /* 137.5% */
+    letter-spacing: 7.04px;
+    width: 642px;
+}
+
+#dolor {
+    padding-left: 80px;
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    /* 166.667% */
+    width: 697px;
+}
+
+#now {
+    color: #FFF;
+    padding-left: 80px;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+#four {
+    margin-top: 60px;
+    display: flex;
+    width: 319.83px;
+    height: 464.662px;
+    padding: 0.008px 0px 0px 0px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+
+}
+
+#place {
+    padding-top: 150px;
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+    /* 175% */
+    text-transform: capitalize;
+
+}
+
+#place p1 {
+    color: #070211;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+}
+
+#gog {
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    border-radius: 8px;
+    background: #F00;
+    display: inline-flex;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-top: 25px;
+    margin-left: 490px;
+    padding-top: 30px;
+    margin-bottom: 200px;
+}
+
+#nol {
+    padding-right: 50px;
+}
+
+#best {
+    color: #F00;
+
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+#soon {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+#dit {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    /* 160% */
+    width: 393px;
+}
+
+
+
+
+#bol img {
+    border-radius: 364.844px;
+
+    width: 250px;
+    height: 250px;
+    flex-shrink: 0;
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+
+}
+
+#bol {
+    border-radius: 463px;
+    border: 15px solid #F00;
+    width: 320px;
+    height: 320px;
+    flex-shrink: 0;
+}
+
+#tol {
+    padding-left: 100px;
+}
+
+#zro {
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+#amet {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    /* 160% */
+    width: 276px;
+}
+
+#fix {
+    width: 140px;
+    height: 140px;
+    flex-shrink: 0;
+}
+
+#func {
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-align: center;
+    margin-top: 180px;
+}
+
+#holi1 {
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+
+}
+
+
+#amt {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+    /* 160% */
+    width: 1068px;
+    margin-bottom: 150px;
+}
+
+#disc1 img {
+    margin-top: 220px;
+    width: 206.841px;
+    height: 206.841px;
+    flex-shrink: 0;
+    margin-left: 560px;
+}
+
+#disc1 {
+    background-image: url(/Images/Rectangle1.png);
+    background-repeat: no-repeat;
+    background-position: 686px;
+}
+
+#red1 img {
+
+    width: 400.602px;
+    height: 408.54px;
+
+
+}
+
+#red1 {
+    background-image: url(/Images/Rectangle2.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: bottom;
+}
+
+#t1 {
+    margin-top: 100px;
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+#o1 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+#d1 {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    /* 160% */
+    width: 896px;
+}
+
+#n1 {
+    width: 180px;
+    height: 150px;
+    flex-shrink: 0;
+    margin-left: 470px;
+    margin-top: 50px;
+}
+
+#s1 {
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+
+    text-transform: capitalize;
+    margin-top: 5px;
+}
+
+#d2 {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    /* 160% */
+}
+
+#use1 {
+    margin-left: 80px;
+    color: rgba(7, 2, 17, 0.30);
+    text-align: center;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border-radius: 50px;
+    background: #FFF;
+    width: 648px;
+    height: 72px;
+    flex-shrink: 0;
+    padding-top: 25px;
+}
+
+#sub1 {
+    color: #FFF;
+    padding-top: 25px;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    background-size: contain;
+    width: 210px;
+    height: 72px;
+    flex-shrink: 0;
+    margin-bottom: 50px;
+}
+
+#nwes {
+    margin-top: 100px;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    margin-bottom: 50px;
+}
+
+#bi1 {
+margin-top: 30px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    /* 166.667% */
+}
+
+#num1 {
+    margin-top: 30px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    padding-left: 250px;
+    margin-bottom: 20px;
+    /* 166.667% */
+}
+
+#w {
+
+    width: 1320px;
+    height: 1px;
+    background: rgba(255, 255, 255, 0.15);
+}
+
+#icon1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 64px;
+    height: 64px;
+    flex-shrink: 0;
+}
+
+#q1 {
+    margin-top: 30px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+#q2 {
+margin-top: 30px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding-left: 260px;
+}
+#p4{
+ 
+fill: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+margin-bottom: 50px;
+}
+#holi1 p9{
+    color: #F00;
+}
